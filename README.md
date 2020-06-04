@@ -1,1 +1,1 @@
-# Side projects different tools using Javascript
+# Side projects using different tools using Javascript
